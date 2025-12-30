@@ -4,7 +4,7 @@ A personal portfolio website showcasing my journey and growth as an **Aspiring D
 
 ## 🌐 Live Demo
 You can view the live website here: 
-[https://vanshikarana06.github.io/My-Portfolio/](https://vanshikarana06.github.io/My-Portfolio/)
+[https://vanshikarana06.github.io/My-Portfolio/](https://vanshikarana06.github.io/My-portfolio/)
 
 ---
 
